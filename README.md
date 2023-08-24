@@ -1,7 +1,7 @@
 # Titanic-Dataset_TableauDashboard
 # Titanic Dataset Tableau Dashboard
 
-
+Link- https://public.tableau.com/app/profile/shikha.sharma3303/viz/TitanicDatasetInsights/Dashboard1?publish=yes
 
 This repository contains a Tableau dashboard project that visualizes insights from the Titanic dataset. The dataset includes information about passengers on the Titanic, such as their demographics, ticket class, survival status, and more.
 
